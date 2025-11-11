@@ -120,7 +120,7 @@ export default function Home() {
                 <Baby className="h-6 w-6 text-white" />
               </div>
               <div>
-                <h1 className="text-xl font-bold text-gray-900">Kids Health Tracker</h1>
+                <h1 className="text-xl font-bold text-gray-900 lasy-highlight">Kids Health Tracker</h1>
                 <p className="text-sm text-gray-600">Monitore a saúde do seu filho</p>
               </div>
             </div>
