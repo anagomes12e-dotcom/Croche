@@ -17,8 +17,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Kids Health Tracker - Monitore a saúde do seu filho",
-  description: "App para pais registrarem alimentação, sono, atividades e sintomas de crianças. Facilita identificar padrões de saúde e bem-estar.",
+  title: "Criado com a Lasy",
+  description: "Projeto criado com Lasy AI",
 };
 
 export default function RootLayout({
